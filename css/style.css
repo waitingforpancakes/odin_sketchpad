@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Mont7;
+    src: url(../fonts/Mont7-Regular.ttf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: rgb(140, 150, 260, 0.9);
+    font-family: Mont7;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin: 24px;
+}
