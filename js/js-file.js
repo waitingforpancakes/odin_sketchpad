@@ -1,4 +1,4 @@
-let size = 4;
+let size = 50;
 const body = document.querySelector('body');
 
 function makeGrid(){
